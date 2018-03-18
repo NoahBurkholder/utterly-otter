@@ -1,0 +1,304 @@
+fileFormatVersion: 2
+guid: 78a703250c9e7cc4cb10b97977fb4378
+timeCreated: 1489381972
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Belly
+    100002: Chest
+    100004: Ear
+    100006: Ear1
+    100008: Eye
+    100010: Eye1
+    100012: Head
+    100014: L_Ankle
+    100016: L_Elbow
+    100018: L_Foot
+    100020: L_Hand
+    100022: L_Knee
+    100024: L_Shoulder
+    100026: L_Thigh
+    100028: Mouth
+    100030: Mouth1
+    100032: Neck
+    100034: Nose
+    100036: Nose1
+    100038: Otter
+    100040: Otter1
+    100042: Otter2
+    100044: //RootNode
+    100046: R_Ankle
+    100048: R_Elbow
+    100050: R_Foot
+    100052: R_Hand
+    100054: R_Knee
+    100056: R_Shoulder
+    100058: R_Thigh
+    100060: TailMid
+    100062: TailStub
+    100064: TailTip
+    100066: transform1
+    100068: transform1 1
+    100070: transform12
+    100072: transform13
+    100074: transform14
+    100076: transform15
+    100078: transform2
+    100080: transform2 1
+    100082: transform3
+    100084: transform3 1
+    100086: transform4
+    100088: transform4 1
+    100090: transform5
+    100092: transform5 1
+    100094: transform6
+    100096: Waist
+    400000: Belly
+    400002: Chest
+    400004: Ear
+    400006: Ear1
+    400008: Eye
+    400010: Eye1
+    400012: Head
+    400014: L_Ankle
+    400016: L_Elbow
+    400018: L_Foot
+    400020: L_Hand
+    400022: L_Knee
+    400024: L_Shoulder
+    400026: L_Thigh
+    400028: Mouth
+    400030: Mouth1
+    400032: Neck
+    400034: Nose
+    400036: Nose1
+    400038: Otter
+    400040: Otter1
+    400042: Otter2
+    400044: //RootNode
+    400046: R_Ankle
+    400048: R_Elbow
+    400050: R_Foot
+    400052: R_Hand
+    400054: R_Knee
+    400056: R_Shoulder
+    400058: R_Thigh
+    400060: TailMid
+    400062: TailStub
+    400064: TailTip
+    400066: transform1
+    400068: transform1 1
+    400070: transform12
+    400072: transform13
+    400074: transform14
+    400076: transform15
+    400078: transform2
+    400080: transform2 1
+    400082: transform3
+    400084: transform3 1
+    400086: transform4
+    400088: transform4 1
+    400090: transform5
+    400092: transform5 1
+    400094: transform6
+    400096: Waist
+    4300000: Otter2
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Otter2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      - path: Waist
+        weight: 1
+      - path: Waist/Belly
+        weight: 1
+      - path: Waist/Belly/Chest
+        weight: 1
+      - path: Waist/Belly/Chest/L_Shoulder
+        weight: 1
+      - path: Waist/Belly/Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Waist/Belly/Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Waist/Belly/Chest/Neck
+        weight: 1
+      - path: Waist/Belly/Chest/Neck/Head
+        weight: 1
+      - path: Waist/Belly/Chest/R_Shoulder
+        weight: 1
+      - path: Waist/Belly/Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Waist/Belly/Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Waist/L_Thigh
+        weight: 1
+      - path: Waist/L_Thigh/L_Knee
+        weight: 1
+      - path: Waist/L_Thigh/L_Knee/L_Ankle
+        weight: 1
+      - path: Waist/L_Thigh/L_Knee/L_Ankle/L_Foot
+        weight: 1
+      - path: Waist/R_Thigh
+        weight: 1
+      - path: Waist/R_Thigh/R_Knee
+        weight: 1
+      - path: Waist/R_Thigh/R_Knee/R_Ankle
+        weight: 1
+      - path: Waist/R_Thigh/R_Knee/R_Ankle/R_Foot
+        weight: 1
+      - path: Waist/TailStub
+        weight: 1
+      - path: Waist/TailStub/TailMid
+        weight: 1
+      - path: Waist/TailStub/TailMid/TailTip
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

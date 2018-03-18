@@ -1,0 +1,1613 @@
+fileFormatVersion: 2
+guid: a39e4d37e5858544ca768baf4764a597
+timeCreated: 1492045353
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: chest1
+    100004: chest2
+    100006: chest3
+    100008: Ear
+    100010: Ear1
+    100012: Eye
+    100014: Eye1
+    100016: head
+    100018: joint1
+    100020: joint2
+    100022: joint3
+    100024: joint4
+    100026: joint5
+    100028: joint6
+    100030: joint8
+    100032: joint9
+    100034: left_leg
+    100036: ll
+    100038: ll2
+    100040: ll3
+    100042: main
+    100044: Mouth
+    100046: Mouth1
+    100048: neck
+    100050: Nose
+    100052: Nose1
+    100054: //RootNode
+    100056: Otter
+    100058: Otter1
+    100060: Otter2
+    100062: right_leg
+    100064: rl
+    100066: rl2
+    100068: rl3
+    100070: tail
+    100072: tail2
+    100074: tail3
+    100076: tail4
+    100078: transform1
+    100080: transform1 1
+    100082: transform12
+    100084: transform13
+    100086: transform14
+    100088: transform15
+    100090: transform2
+    100092: transform2 1
+    100094: transform3
+    100096: transform3 1
+    100098: transform4
+    100100: transform4 1
+    100102: transform5
+    100104: transform5 1
+    100106: transform6
+    100108: Chest
+    100110: Head
+    100112: Hips
+    100114: L_Elbow
+    100116: L_Foot
+    100118: L_Hand
+    100120: L_Knee
+    100122: L_Leg
+    100124: L_Shoulder
+    100126: L_Thigh
+    100128: Neck
+    100130: R_Elbow
+    100132: R_Foot
+    100134: R_Hand
+    100136: R_Knee
+    100138: R_Leg
+    100140: R_Shoulder
+    100142: R_Thigh
+    100144: Spine1
+    100146: Spine2
+    100148: Spine3
+    100150: Spine4
+    100152: Tail1
+    100154: Tail2
+    100156: Tail3
+    100158: Tail4
+    100160: group
+    400000: back
+    400002: chest1
+    400004: chest2
+    400006: chest3
+    400008: Ear
+    400010: Ear1
+    400012: Eye
+    400014: Eye1
+    400016: head
+    400018: joint1
+    400020: joint2
+    400022: joint3
+    400024: joint4
+    400026: joint5
+    400028: joint6
+    400030: joint8
+    400032: joint9
+    400034: left_leg
+    400036: ll
+    400038: ll2
+    400040: ll3
+    400042: main
+    400044: Mouth
+    400046: Mouth1
+    400048: neck
+    400050: Nose
+    400052: Nose1
+    400054: //RootNode
+    400056: Otter
+    400058: Otter1
+    400060: Otter2
+    400062: right_leg
+    400064: rl
+    400066: rl2
+    400068: rl3
+    400070: tail
+    400072: tail2
+    400074: tail3
+    400076: tail4
+    400078: transform1
+    400080: transform1 1
+    400082: transform12
+    400084: transform13
+    400086: transform14
+    400088: transform15
+    400090: transform2
+    400092: transform2 1
+    400094: transform3
+    400096: transform3 1
+    400098: transform4
+    400100: transform4 1
+    400102: transform5
+    400104: transform5 1
+    400106: transform6
+    400108: Chest
+    400110: Head
+    400112: Hips
+    400114: L_Elbow
+    400116: L_Foot
+    400118: L_Hand
+    400120: L_Knee
+    400122: L_Leg
+    400124: L_Shoulder
+    400126: L_Thigh
+    400128: Neck
+    400130: R_Elbow
+    400132: R_Foot
+    400134: R_Hand
+    400136: R_Knee
+    400138: R_Leg
+    400140: R_Shoulder
+    400142: R_Thigh
+    400144: Spine1
+    400146: Spine2
+    400148: Spine3
+    400150: Spine4
+    400152: Tail1
+    400154: Tail2
+    400156: Tail3
+    400158: Tail4
+    400160: group
+    4300000: Otter2
+    7400000: Idle
+    7400002: Swim
+    7400004: Fly
+    7400006: Pose1
+    7400008: Pose2
+    7400010: Pose3
+    7400012: Idle
+    7400014: Pose4
+    7400016: Pose5
+    7400018: Pose6
+    7400020: Pose7
+    9500000: //RootNode
+    13700000: Otter2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 61
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest/L_Shoulder
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Chest/Neck
+        weight: 1
+      - path: Chest/Neck/Head
+        weight: 1
+      - path: Chest/R_Shoulder
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Chest/Spine1
+        weight: 1
+      - path: Chest/Spine1/Spine2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee/L_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Swim
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest/L_Shoulder
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Chest/Neck
+        weight: 1
+      - path: Chest/Neck/Head
+        weight: 1
+      - path: Chest/R_Shoulder
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Chest/Spine1
+        weight: 1
+      - path: Chest/Spine1/Spine2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee/L_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Fly
+      takeName: Take 001
+      firstFrame: 125
+      lastFrame: 126
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest/L_Shoulder
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Chest/Neck
+        weight: 1
+      - path: Chest/Neck/Head
+        weight: 1
+      - path: Chest/R_Shoulder
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Chest/Spine1
+        weight: 1
+      - path: Chest/Spine1/Spine2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee/L_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pose1
+      takeName: Take 001
+      firstFrame: 121
+      lastFrame: 122
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest/L_Shoulder
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Chest/Neck
+        weight: 1
+      - path: Chest/Neck/Head
+        weight: 1
+      - path: Chest/R_Shoulder
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Chest/Spine1
+        weight: 1
+      - path: Chest/Spine1/Spine2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee/L_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pose2
+      takeName: Take 001
+      firstFrame: 123
+      lastFrame: 124
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest/L_Shoulder
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Chest/Neck
+        weight: 1
+      - path: Chest/Neck/Head
+        weight: 1
+      - path: Chest/R_Shoulder
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Chest/Spine1
+        weight: 1
+      - path: Chest/Spine1/Spine2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee/L_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pose3
+      takeName: Take 001
+      firstFrame: 127
+      lastFrame: 128
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest/L_Shoulder
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Chest/Neck
+        weight: 1
+      - path: Chest/Neck/Head
+        weight: 1
+      - path: Chest/R_Shoulder
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Chest/Spine1
+        weight: 1
+      - path: Chest/Spine1/Spine2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee/L_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pose4
+      takeName: Take 001
+      firstFrame: 129
+      lastFrame: 130
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest/L_Shoulder
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Chest/Neck
+        weight: 1
+      - path: Chest/Neck/Head
+        weight: 1
+      - path: Chest/R_Shoulder
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Chest/Spine1
+        weight: 1
+      - path: Chest/Spine1/Spine2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee/L_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pose5
+      takeName: Take 001
+      firstFrame: 131
+      lastFrame: 132
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest/L_Shoulder
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Chest/Neck
+        weight: 1
+      - path: Chest/Neck/Head
+        weight: 1
+      - path: Chest/R_Shoulder
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Chest/Spine1
+        weight: 1
+      - path: Chest/Spine1/Spine2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee/L_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pose6
+      takeName: Take 001
+      firstFrame: 133
+      lastFrame: 134
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest/L_Shoulder
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Chest/Neck
+        weight: 1
+      - path: Chest/Neck/Head
+        weight: 1
+      - path: Chest/R_Shoulder
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Chest/Spine1
+        weight: 1
+      - path: Chest/Spine1/Spine2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee/L_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Pose7
+      takeName: Take 001
+      firstFrame: 135
+      lastFrame: 140
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: back
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: Chest/L_Shoulder
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow
+        weight: 1
+      - path: Chest/L_Shoulder/L_Elbow/L_Hand
+        weight: 1
+      - path: Chest/Neck
+        weight: 1
+      - path: Chest/Neck/Head
+        weight: 1
+      - path: Chest/R_Shoulder
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow
+        weight: 1
+      - path: Chest/R_Shoulder/R_Elbow/R_Hand
+        weight: 1
+      - path: Chest/Spine1
+        weight: 1
+      - path: Chest/Spine1/Spine2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/L_Thigh/L_Leg/L_Knee/L_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/R_Thigh/R_Leg/R_Knee/R_Foot
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3
+        weight: 1
+      - path: Chest/Spine1/Spine2/Spine3/Spine4/Hips/Tail1/Tail2/Tail3/Tail4
+        weight: 1
+      - path: Ear
+        weight: 1
+      - path: Ear/transform1
+        weight: 1
+      - path: Ear1
+        weight: 1
+      - path: Ear1/transform1 1
+        weight: 1
+      - path: Ear1/transform6
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eye/transform2
+        weight: 1
+      - path: Eye/transform12
+        weight: 1
+      - path: Eye1
+        weight: 1
+      - path: Eye1/transform2 1
+        weight: 1
+      - path: group
+        weight: 1
+      - path: Mouth
+        weight: 1
+      - path: Mouth/transform4
+        weight: 1
+      - path: Mouth/transform14
+        weight: 1
+      - path: Mouth1
+        weight: 1
+      - path: Mouth1/transform4 1
+        weight: 1
+      - path: Nose
+        weight: 1
+      - path: Nose/transform3
+        weight: 1
+      - path: Nose/transform13
+        weight: 1
+      - path: Nose1
+        weight: 1
+      - path: Nose1/transform3 1
+        weight: 1
+      - path: Otter
+        weight: 1
+      - path: Otter/transform5
+        weight: 1
+      - path: Otter/transform15
+        weight: 1
+      - path: Otter1
+        weight: 1
+      - path: Otter1/transform5 1
+        weight: 1
+      - path: Otter2
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

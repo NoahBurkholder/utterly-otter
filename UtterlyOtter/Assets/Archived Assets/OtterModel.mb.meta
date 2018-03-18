@@ -1,0 +1,187 @@
+fileFormatVersion: 2
+guid: 84a4d7ae17c9e584d94282c0f586b084
+timeCreated: 1489111391
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Ear
+    100002: Ear1
+    100004: Eye
+    100006: Eye1
+    100008: Mouth
+    100010: Mouth1
+    100012: Nose
+    100014: Nose1
+    100016: Otter
+    100018: Otter1
+    100020: Otter2
+    100022: //RootNode
+    100024: transform1
+    100026: transform1 1
+    100028: transform10
+    100030: transform11
+    100032: transform12
+    100034: transform13
+    100036: transform14
+    100038: transform15
+    100040: transform2
+    100042: transform2 1
+    100044: transform3
+    100046: transform3 1
+    100048: transform4
+    100050: transform4 1
+    100052: transform5
+    100054: transform5 1
+    100056: transform6
+    100058: transform7
+    100060: transform8
+    100062: transform9
+    100064: joint1
+    100066: joint10
+    100068: joint11
+    100070: joint12
+    100072: joint13
+    100074: joint14
+    100076: joint15
+    100078: joint16
+    100080: joint17
+    100082: joint18
+    100084: joint19
+    100086: joint2
+    100088: joint20
+    100090: joint21
+    100092: joint22
+    100094: joint3
+    100096: joint4
+    100098: joint5
+    100100: joint6
+    100102: joint7
+    100104: joint8
+    100106: joint9
+    400000: Ear
+    400002: Ear1
+    400004: Eye
+    400006: Eye1
+    400008: Mouth
+    400010: Mouth1
+    400012: Nose
+    400014: Nose1
+    400016: Otter
+    400018: Otter1
+    400020: Otter2
+    400022: //RootNode
+    400024: transform1
+    400026: transform1 1
+    400028: transform10
+    400030: transform11
+    400032: transform12
+    400034: transform13
+    400036: transform14
+    400038: transform15
+    400040: transform2
+    400042: transform2 1
+    400044: transform3
+    400046: transform3 1
+    400048: transform4
+    400050: transform4 1
+    400052: transform5
+    400054: transform5 1
+    400056: transform6
+    400058: transform7
+    400060: transform8
+    400062: transform9
+    400064: joint1
+    400066: joint10
+    400068: joint11
+    400070: joint12
+    400072: joint13
+    400074: joint14
+    400076: joint15
+    400078: joint16
+    400080: joint17
+    400082: joint18
+    400084: joint19
+    400086: joint2
+    400088: joint20
+    400090: joint21
+    400092: joint22
+    400094: joint3
+    400096: joint4
+    400098: joint5
+    400100: joint6
+    400102: joint7
+    400104: joint8
+    400106: joint9
+    2300000: Otter2
+    3300000: Otter2
+    4300000: Otter2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

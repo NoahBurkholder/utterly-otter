@@ -1,0 +1,192 @@
+fileFormatVersion: 2
+guid: a5055209e2008984e964046efee8840a
+timeCreated: 1489372044
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chest
+    100002: group
+    100004: Head
+    100006: L_Elbow
+    100008: L_Forearm
+    100010: L_Shoulder
+    100012: L_Tip
+    100014: L_Wrist
+    100016: //RootNode
+    100018: pSphere6
+    100020: pSphere7
+    100022: pSphere8
+    100024: R_Elbow
+    100026: R_Forearm
+    100028: R_Shoulder
+    100030: R_Tip
+    100032: R_Wrist
+    100034: Tail
+    100036: TailEnd
+    100038: transform1
+    100040: transform2
+    400000: Chest
+    400002: group
+    400004: Head
+    400006: L_Elbow
+    400008: L_Forearm
+    400010: L_Shoulder
+    400012: L_Tip
+    400014: L_Wrist
+    400016: //RootNode
+    400018: pSphere6
+    400020: pSphere7
+    400022: pSphere8
+    400024: R_Elbow
+    400026: R_Forearm
+    400028: R_Shoulder
+    400030: R_Tip
+    400032: R_Wrist
+    400034: Tail
+    400036: TailEnd
+    400038: transform1
+    400040: transform2
+    4300000: pSphere8
+    7400000: Fly
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: pSphere8
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Fly
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 30
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: group
+        weight: 1
+      - path: Head
+        weight: 1
+      - path: Head/Chest
+        weight: 1
+      - path: Head/Chest/L_Shoulder
+        weight: 1
+      - path: Head/Chest/L_Shoulder/L_Forearm
+        weight: 1
+      - path: Head/Chest/L_Shoulder/L_Forearm/L_Elbow
+        weight: 1
+      - path: Head/Chest/L_Shoulder/L_Forearm/L_Elbow/L_Wrist
+        weight: 1
+      - path: Head/Chest/L_Shoulder/L_Forearm/L_Elbow/L_Wrist/L_Tip
+        weight: 1
+      - path: Head/Chest/R_Shoulder
+        weight: 1
+      - path: Head/Chest/R_Shoulder/R_Forearm
+        weight: 1
+      - path: Head/Chest/R_Shoulder/R_Forearm/R_Elbow
+        weight: 1
+      - path: Head/Chest/R_Shoulder/R_Forearm/R_Elbow/R_Wrist
+        weight: 1
+      - path: Head/Chest/R_Shoulder/R_Forearm/R_Elbow/R_Wrist/R_Tip
+        weight: 1
+      - path: Head/Chest/Tail
+        weight: 1
+      - path: Head/Chest/Tail/TailEnd
+        weight: 1
+      - path: pSphere6
+        weight: 1
+      - path: pSphere6/transform2
+        weight: 1
+      - path: pSphere7
+        weight: 1
+      - path: pSphere7/transform1
+        weight: 1
+      - path: pSphere8
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.08
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 0
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
